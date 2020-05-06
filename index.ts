@@ -15,6 +15,7 @@ export async function createIssueComment(comment: Octokit.Octokit.IssuesCreateCo
   /**
    * This is odd using Octokit.Octokit.
    *
+   * Step 0) npm install
    * Step 1) put your cursor on the function name.
    * Step 2) open the Quick Tips
    * Step 3) move to another file
