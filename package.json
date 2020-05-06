@@ -1,0 +1,27 @@
+{
+  "name": "vscode-import-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "@octokit/rest": "^16.35.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpapa/vscode-import-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpapa/vscode-import-bug/issues"
+  },
+  "homepage": "https://github.com/johnpapa/vscode-import-bug#readme"
+}
